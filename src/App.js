@@ -27,6 +27,7 @@ function App() {
         !
       </h2>
       <p>
+    Navneet Gupta
         <a
           href="https://github.com/vercel/vercel/tree/master/examples/create-react-app"
           target="_blank"
